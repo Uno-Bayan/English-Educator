@@ -1,0 +1,39 @@
+﻿  stdafx.cpp
+  StateMachine.cpp
+  SplashState.cpp
+c:\users\dell\source\repos\game\englisheducator\game.h(28): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\dell\source\repos\game\englisheducator\splashstate.cpp(34): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\dell\source\repos\game\englisheducator\splashstate.cpp(33): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\dell\source\repos\game\englisheducator\splashstate.cpp(63): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\dell\source\repos\game\englisheducator\splashstate.cpp(78): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  EnglishEducator.cpp
+c:\users\dell\source\repos\game\englisheducator\game.h(28): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  QandA.cpp
+c:\users\dell\source\repos\game\englisheducator\game.h(28): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  MainMenuState.cpp
+c:\users\dell\source\repos\game\englisheducator\game.h(28): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  InputManager.cpp
+c:\users\dell\source\repos\game\englisheducator\inputmanager.cpp(15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dell\source\repos\game\englisheducator\inputmanager.cpp(14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dell\source\repos\game\englisheducator\inputmanager.cpp(13): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\dell\source\repos\game\englisheducator\inputmanager.cpp(12): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  GrammarState.cpp
+c:\users\dell\source\repos\game\englisheducator\game.h(28): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  GameState.cpp
+c:\users\dell\source\repos\game\englisheducator\game.h(28): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  GamePlayStartMenu.cpp
+c:\users\dell\source\repos\game\englisheducator\game.h(28): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\dell\source\repos\game\englisheducator\gameplaystartmenu.cpp(23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dell\source\repos\game\englisheducator\gameplaystartmenu.cpp(29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Game.cpp
+c:\users\dell\source\repos\game\englisheducator\game.h(28): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\dell\source\repos\game\englisheducator\game.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  EllenBaker.cpp
+c:\users\dell\source\repos\game\englisheducator\game.h(28): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\dell\source\repos\game\englisheducator\ellenbaker.cpp(54): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\dell\source\repos\game\englisheducator\ellenbaker.cpp(53): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\dell\source\repos\game\englisheducator\ellenbaker.cpp(63): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\dell\source\repos\game\englisheducator\ellenbaker.cpp(62): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  AssetManager.cpp
+  Generating Code...
+  EnglishEducator.vcxproj -> C:\Users\Dell\source\repos\Game\Debug\EnglishEducator.exe

@@ -1,0 +1,31 @@
+﻿  stdafx.cpp
+  StateMachine.cpp
+  SplashState.cpp
+c:\users\dell\source\repos\ninjin\sonar\splashstate.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Sonar.cpp
+c:\users\dell\source\repos\ninjin\sonar\game.h(5): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Pipe.cpp
+c:\users\dell\source\repos\ninjin\sonar\pipe.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  MainMenuState.cpp
+c:\users\dell\source\repos\ninjin\sonar\mainmenustate.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Land.cpp
+c:\users\dell\source\repos\ninjin\sonar\land.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  InputManager.cpp
+c:\users\dell\source\repos\ninjin\sonar\inputmanager.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  HUD.cpp
+c:\users\dell\source\repos\ninjin\sonar\hud.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  GameState.cpp
+c:\users\dell\source\repos\ninjin\sonar\gamestate.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  GameOverState.cpp
+c:\users\dell\source\repos\ninjin\sonar\gameoverstate.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Game.cpp
+c:\users\dell\source\repos\ninjin\sonar\game.h(5): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Flash.cpp
+c:\users\dell\source\repos\ninjin\sonar\flash.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Collision.cpp
+c:\users\dell\source\repos\ninjin\sonar\collision.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Bird.cpp
+c:\users\dell\source\repos\ninjin\sonar\bird.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  AssetManager.cpp
+c:\users\dell\source\repos\ninjin\sonar\assetmanager.h(5): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Generating Code...
